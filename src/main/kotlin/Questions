@@ -8,6 +8,11 @@ Java
 - Kórinis modifikatorları qanday hám parıqları neler?
 - Konstruktor ne?
 -  Klass ne hám obiekt ne?
+- Abstrakt klass vs Interface?
+- Abstrakt klasstan obiekt alsa boladıma?
+- Anonymous klass ne hám qashan isletiledi?
+- Abstrakciya qalay paydalanǵansız?
+- Instance ózgeriwshi hám lokal ózgeriwshi parqları?
 
 Collection
 - Javada List hám ArrayList parqları
@@ -15,8 +20,11 @@ Collection
 
 
 System Design
-
 - MVP/MVVM/MVI dıń ústemlik hám kemshilikleri ne? Nege MVP bar waqıtta MVVM/MVI ǵa talap payda bolǵan?
+- SOLID ne?
+- Singleton nege kerek?
+- Dependency Inversion vs Dependency Injection?
+
 
 OOP (1-orında)
 - OOP nelerden quralǵan?
@@ -25,16 +33,27 @@ OOP (1-orında)
 - Abstrakciya ne?
 
 Kotlin
-
+- Javadaǵı Singletonǵa Kotlinda qalay erisse boladı?
+- Kotlinniń Javadan parıqları? (Singleton)
+- Generics ne? Qalay hám qayjerde paydalanamız?
+- Generic funkciya hám generic klass parqları ne?
+- Delegation ne?
+- Lazy ne isleydi?
+- lateinit ne? qashan lazy hám qashan letinit?
+- lateinit inited bolǵanın qalay bilse boladi?
+- klassdıń metada dataları tuwralı ne bilesiz?
 - Kotlin abzallıqları qanday?
 - Data class ne? Data classtaǵı Hashcode ne?
 - val hám const val parqları qanday?
 - ? operatordı túsindirip beriń? (if ornına)
 - ? hám !! parqı qanday?
 - ?: elvis operatorı ne máqsette isletiledi
+- Marker interface? Clonable, Serializable (compilerǵa maǵlıwmat qosıp jiberedi bul ápiwayı klass emes, serialize boladı, máqset ata etip belgilep qoyıw funkciya qosıw emes)
+- Single Abstract Method ne?
 
 Android
 - Android komponentaları qaysılar?
+- Content Provider arqalı maǵlıwmat jiberiw qalay ámelge asırıladı>
 - UI komponentaları qaysılar?
 - Activity Lifecycleları qanday
 - onStop penen onPause parqları?
@@ -44,6 +63,8 @@ Android
 - onAttach vs OnDetach?
 - onAttachda UI ǵa baylanıslı operaciya isleseńiz ne boladı?
 - Context ne?
+- Fragmentte lifecycle scopes
+- Programmanı Activitysız iske qossa bolama?
 
 
 - SQL da Left-Join ne?
@@ -51,3 +72,22 @@ Android
 - 10,00, 20,000 ónimdı ekranǵa list etip qalay (Qanday Query) shıǵarasız?
 - Courser adapter ne?
 - findViewById vs viewBinding?
+- how to add paramter to model (like adding Phone's name, id new phoneNumber parameter with ALTER TABLE)
+- left joinne?
+- % belgi tuwralı aytıp ber
+
+Async:
+- RX qalay paydalanamız?
+- Asinxron ne?
+- Coroutines ne?
+- Coroutines da tasktı qalay cancel etsek boladı?
+- IO vs Default Dispatcher parqları?
+- collect vs onEach?
+- async()  qaytaratuǵın tip qanday?
+- flatmap, concat tuwralı aytıp ber.
+- flow vs livedata parqları qanday?
+
+
+Open ended
+- your biggest problematic side in android dev
+- Qalay hár túrli ekran ólshemlerin hám API versiyalarin qollap quwatlaw?
