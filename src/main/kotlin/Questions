@@ -1,0 +1,53 @@
+Java
+
+- JVM qalay isleydi?
+- JVM ishinde qanday yad túrleri bar?
+- Runtime hám compiler time parqları qanday?
+- Primitive hám primitive bolǵan (reference) tipler?
+- Javanıń ústemlikleri ne?
+- Kórinis modifikatorları qanday hám parıqları neler?
+- Konstruktor ne?
+-  Klass ne hám obiekt ne?
+
+Collection
+- Javada List hám ArrayList parqları
+- Javada Array hám List parqı?
+
+
+System Design
+
+- MVP/MVVM/MVI dıń ústemlik hám kemshilikleri ne? Nege MVP bar waqıtta MVVM/MVI ǵa talap payda bolǵan?
+
+OOP (1-orında)
+- OOP nelerden quralǵan?
+- Polimorfizm ne?
+- Funkciya ovveride penen overloading parqı?
+- Abstrakciya ne?
+
+Kotlin
+
+- Kotlin abzallıqları qanday?
+- Data class ne? Data classtaǵı Hashcode ne?
+- val hám const val parqları qanday?
+- ? operatordı túsindirip beriń? (if ornına)
+- ? hám !! parqı qanday?
+- ?: elvis operatorı ne máqsette isletiledi
+
+Android
+- Android komponentaları qaysılar?
+- UI komponentaları qaysılar?
+- Activity Lifecycleları qanday
+- onStop penen onPause parqları?
+- Single Activity vs Multiple Activity parqları?
+- Fragment vs Activity parqı?
+- Network Requestlardı qaysı Actitivy cycleda jiberiw kerek?
+- onAttach vs OnDetach?
+- onAttachda UI ǵa baylanıslı operaciya isleseńiz ne boladı?
+- Context ne?
+
+
+- SQL da Left-Join ne?
+- SQL da LIKE ne?
+- 10,00, 20,000 ónimdı ekranǵa list etip qalay (Qanday Query) shıǵarasız?
+- Courser adapter ne?
+- findViewById vs viewBinding?
